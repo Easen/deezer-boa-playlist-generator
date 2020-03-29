@@ -1,0 +1,4 @@
+github.com/easen/godeezer v0.0.0-20200321184347-d4d32bd4fdb5 h1:fKp3y4BaAm8LShm2rY+SfXwj3hlnotCAQ+0kr+lUm7M=
+github.com/easen/godeezer v0.0.0-20200321184347-d4d32bd4fdb5/go.mod h1:vvkXuplEIZJUBZV64cYSosADvJDDtvBRfyNBQ1adrrY=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
